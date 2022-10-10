@@ -26,7 +26,7 @@
 
 ## 一、Hadoop
 
-1. [HDFS架构](./docs/HDFS架构.md)
+1. [HDFS架构wmxtest](./docs/HDFS架构.md)
 
 2. [Yarn架构](./docs/Yarn架构.md)
 
